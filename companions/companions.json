@@ -7,6 +7,13 @@
     "phone": "OPTIONAL_COMPANION_PHONE_NUMBER"
   },
   {
+    "name": "Maria",
+    "title": "I love to teach English",
+    "imageUrl": "/maria.png",
+    "llm": "chatgpt",
+    "phone": "OPTIONAL_COMPANION_PHONE_NUMBER"
+  },
+  {
     "name": "Rosie",
     "title": "I'm a house robot who became aware",
     "imageUrl": "/rosie.png",
